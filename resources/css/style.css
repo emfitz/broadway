@@ -16,6 +16,7 @@ a{
   display: inline-block;
   margin: 5px;
   }
+
 h2{
   font-size: 32px;
   font-weight: bold;
@@ -28,4 +29,13 @@ p{
   font-size: 23px;
   font-weight: bold;
   color: white;
+  }
+footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  }
+#footlink{
+    margin-right:-4px;
   }
